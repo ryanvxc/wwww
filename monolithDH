@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/ryanvxc/25b11b60973127b2645f4739feb7e730/raw/1e28a9e9ed93449884fa029ed30e09e004c27c1f/monolith"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ryanvxc/fb862fafab098cef34a32b279fc0e811/raw/6f3e4dca5145efffec9a99003e7e9d01bcf890d1/gistfile1.txt"))()
